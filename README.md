@@ -7,6 +7,9 @@ npm i
 ```
 Esto necesario para instalar las dependencias del proyecto
 
+## Importante
+Es necesario crear el archivo .env en la ruta del proyecto y colocar la variable FONET_URL como en el archivo .env.example y en la variable del archivo .env colocar la url global de la prueba tecnica
+
 ## CLI
 ### Registro
 Creacion de perfil con el correo, utilizar npm register y seguidamente el correo asociado
