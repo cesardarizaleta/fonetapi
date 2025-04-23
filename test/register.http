@@ -1,0 +1,7 @@
+### 1. Registro
+POST https://ondemand.fonet.com.ve/cpanel/API_v1/demo/register
+accept: application/json
+Content-Type: application/json
+{
+  "email": "cesardarizaleta@example.com"
+}
