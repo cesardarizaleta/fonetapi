@@ -4,7 +4,8 @@
   "description": "",
   "scripts": {
     "register": "node src/register.js",
-    "verify-token": "node src/verifyAuth.js"
+    "verify-token": "node src/verifyAuth.js",
+    "stats": "node src/contact.js"
   },
   "keywords": [],
   "author": "",
