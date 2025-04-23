@@ -14,7 +14,7 @@ Es necesario crear el archivo .env en la ruta del proyecto y colocar la variable
 ### Registro
 Creacion de perfil con el correo, utilizar npm register y seguidamente el correo asociado
 ```
-npm register cesardarizaleta@gmail.com
+npm run register cesardarizaleta@gmail.com
 ```
 
 ### Verificacion Token
